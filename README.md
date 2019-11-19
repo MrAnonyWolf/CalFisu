@@ -1,2 +1,2 @@
 # CalFisu
-Calculator Bash
+Simple Calculator made using Bash
